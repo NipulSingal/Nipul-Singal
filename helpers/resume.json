@@ -1,0 +1,74 @@
+{
+    "Experience": [
+      {
+        "company": "Infoxpression",
+        "title": "Backend Developer",
+        "description": "USICT, Delhi",
+        "duration": "July 2019 - Oct 2019"
+      },
+      {
+        "company": "Coding Ninjas",
+        "title": "Learner",
+        "description": "Online Course",
+        "duration": "June 2018 - Dec 2018"
+      }
+    ],
+    "Tech stack": [
+      {
+        "Skill": "Frontend",
+        "Frameworks": "CSS, Javascript, Bootstrap, Semantic UI"
+      },
+      {
+        "Skill": "Backend",
+        "Frameworks": "Node.js, Express.js, Passport.js"
+      },
+      {
+        "Skill": "Databases",
+        "Frameworks": "MongoDB, Sql"
+      },
+      {
+        "Skill": "Programming Languages",
+        "Frameworks": "C, C++"
+      }
+    ],
+    "Achievments": [
+      {
+        "name": "HackIIITD",
+        "description": "Ranked Top 30 amongst top teams of India"
+      }
+    ],
+    "Projects": [
+      {
+        "name": "Yelp-Camp",
+        "link": "https://solitairevue.firebaseapp.com",
+        "description": "A site where you can add your camping experiences"
+      },
+      {
+        "name": "Roll Dice Game",
+        "link": "https://nipulsingal.github.io/Roll-Dice-Game/",
+        "description": "A simple roll the dice game made entirely in css and javascript"
+      }
+    ],
+    "Contact Me": [
+      {
+        "name": "Git Hub",
+        "link": "https://github.com/NipulSingal"
+      },
+      {
+        "name": "Medium",
+        "link": "https://medium.com/@nipul00rock"
+      },
+      {
+        "name": "LinkedIN",
+        "link": "https://www.linkedin.com/in/nipul-singal-52579416a/"
+      },
+      {
+        "name": "NPM",
+        "link": "https://www.npmjs.com/settings/nipul-singal/profile"
+      },
+      {
+        "name": "Email",
+        "link": "nipul00rock@gmail.com"
+      }
+    ]
+  }

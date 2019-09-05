@@ -1,0 +1,20 @@
+{
+  "name": "nipul-singal",
+  "version": "1.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "inquirer": "^7.0.0",
+    "terminal-image": "^0.2.0"
+  },
+  "bin": {
+    "nipul-singal": "./index.js"
+  }
+}
