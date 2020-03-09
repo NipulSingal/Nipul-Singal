@@ -1,8 +1,14 @@
 {
     "Experience": [
       {
-        "company": "Infoxpression",
-        "title": "Backend Developer",
+        "company": "PFRepo",
+        "title": "Full Stack Web Developer",
+        "description": "Worked on adding new Functionalities to the Website and Improving the Pre-existing ones. The Working Stack is ReactJS (Front-End), NodeJS (Back-End), PostgreSQl(Database), AWS(Deployement).",
+        "duration": "Nov 2019 - Mar 2020"
+      },
+      {
+        "company": "Infoxpression'2K19",
+        "title": "Frontend Developer",
         "description": "USICT, Delhi",
         "duration": "July 2019 - Oct 2019"
       },
@@ -16,15 +22,15 @@
     "Tech stack": [
       {
         "Skill": "Frontend",
-        "Frameworks": "CSS, Javascript, Bootstrap, Semantic UI"
+        "Frameworks":"HTML5, CSS3, Javascript, Bootstrap, Semantic UI, React.js"
       },
       {
         "Skill": "Backend",
-        "Frameworks": "Node.js, Express.js, Passport.js"
+        "Frameworks": "Node.js, Express.js, Passport.js, Redux, AWS"
       },
       {
         "Skill": "Databases",
-        "Frameworks": "MongoDB, Sql"
+        "Frameworks": "MongoDB, MySQL, PostgreSQL"
       },
       {
         "Skill": "Programming Languages",
@@ -34,7 +40,7 @@
     "Achievments": [
       {
         "name": "HackIIITD",
-        "description": "Ranked Top 30 amongst top teams of India"
+        "description": "Ranked Top 10 amongst top teams of India"
       }
     ],
     "Projects": [
