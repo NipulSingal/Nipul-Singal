@@ -1,5 +1,6 @@
 # Nipul-Singal
 
-This is my resume as an NPM package.:-
+This is my resume as a NPM package.:-
 
+# Install
 # npx nipul-singal
