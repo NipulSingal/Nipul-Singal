@@ -27,6 +27,28 @@
         "link" : "Link - https://infoxpression-a1433.web.app/"
       }
     ],
+    "Current Positions": [
+      {
+        "name": "Freelancer.com",
+        "title": "Freelancer",
+        "description": "Open for New Projects"
+      },
+      {
+        "name": "Techspace",
+        "title": "Cogitans Secretary",
+        "description": "Selected as the General Secretary of the department official","d2": "Web Development club (Cogitans) under Techspace"
+      },
+      {
+        "name": "Internshala",
+        "title": "Internshala Student Partner",
+        "description": "Timeline- May 2020 - Jul 2020"
+      },
+      {
+        "name": "Developer Student Club",
+        "title": "Web Domain Lead",
+        "description": "Core Team Member of DSC, USICT for session 2020-21,","d2": "will work as Web Domain Lead of DSC"
+      }
+    ],
     "Skills": [
       {
         "Skill": "Expertise Area","d1": "",
@@ -59,28 +81,6 @@
       {
         "name": "Hackcbs 2.0",
         "description": "Top 10 position in HACKIIITD'19 | Tech Hackathon"
-      }
-    ],
-    "Current Positions": [
-      {
-        "name": "Freelancer.com",
-        "title": "Freelancer",
-        "description": "Open for New Projects"
-      },
-      {
-        "name": "Techspace",
-        "title": "Cogitans Secretary",
-        "description": "Selected as the General Secretary of the department official","d2": "Web Development club (Cogitans) under Techspace"
-      },
-      {
-        "name": "Internshala",
-        "title": "Internshala Student Partner",
-        "description": "Timeline- May 2020 - Jul 2020"
-      },
-      {
-        "name": "Developer Student Club",
-        "title": "Web Domain Lead",
-        "description": "Core Team Member of DSC, USICT for session 2020-21,","d2": "will work as Web Domain Lead of DSC"
       }
     ],
     "Projects": [
