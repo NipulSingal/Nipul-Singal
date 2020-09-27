@@ -1,23 +1,32 @@
 {
-    "Experience": [
+    "Work Experience / Internships": [
+      {
+        "company": "Vezures",
+        "title": "Frontend Engineer Intern",
+        "description": "Working on creating a new web dashboard (Cymmetry) for a client.The Working Stack is ReactJS, React - Native, Redux, Bootstrap,Material-UI, Javascript, Typescript, ES-Lint.",
+        "duration": "Jun 2020 - Present",
+        "link" : "https://github.com/NipulSingal/Cymmetri"
+      },
       {
         "company": "PFRepo",
-        "title": "Full Stack Web Developer",
+        "title": "Full Stack Developer Intern",
         "description": "Worked on adding new Functionalities to the Website and Improving the Pre-existing ones. The Working Stack is ReactJS (Front-End), NodeJS (Back-End), PostgreSQl(Database), AWS(Deployement).",
-        "duration": "Nov 2019 - Mar 2020"
+        "duration": "Nov 2019 - May 2020",
+        "link" : "https://pfrepo.me"
       },
       {
         "company": "Infoxpression'2K19",
         "title": "Frontend Developer",
-        "description": "USICT, Delhi",
-        "duration": "July 2019 - Oct 2019"
-      },
-      {
-        "company": "Coding Ninjas",
-        "title": "Learner",
-        "description": "Online Course",
-        "duration": "June 2018 - Dec 2018"
+        "description": "I with the help of my fellow Team Members developed the website of Infoxpression.",
+        "duration": "July 2019 - Oct 2019",
+        "link" : "https://infoxpression-a1433.web.app/"
       }
+      // {
+      //   "company": "Coding Ninjas",
+      //   "title": "Learner",
+      //   "description": "Online Course",
+      //   "duration": "June 2018 - Dec 2018"
+      // }
     ],
     "Tech stack": [
       {
