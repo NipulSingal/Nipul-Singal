@@ -3,74 +3,135 @@
       {
         "company": "Vezures",
         "title": "Frontend Engineer Intern",
-        "description": "Working on creating a new web dashboard (Cymmetry) for a client.The Working Stack is ReactJS, React - Native, Redux, Bootstrap,Material-UI, Javascript, Typescript, ES-Lint.",
+        "description": "Working on creating a new web dashboard (Cymmetry) for a client.",
+        "description2": "The Working Stack is ReactJS, React - Native, Redux, Bootstrap, ", 
+        "description3" :"Material-UI, Javascript, Typescript, ES-Lint.",
         "duration": "Jun 2020 - Present",
-        "link" : "https://github.com/NipulSingal/Cymmetri"
+        "link" : "Link - https://github.com/NipulSingal/Cymmetri"
       },
       {
         "company": "PFRepo",
         "title": "Full Stack Developer Intern",
-        "description": "Worked on adding new Functionalities to the Website and Improving the Pre-existing ones. The Working Stack is ReactJS (Front-End), NodeJS (Back-End), PostgreSQl(Database), AWS(Deployement).",
+        "description": "Worked on adding new Functionalities to the Website and Improving",
+        "description2" : "the Pre-existing ones. The Working Stack is ReactJS (Front-End),",
+        "description3": "NodeJS (Back-End), PostgreSQl(Database), AWS(Deployement).",
         "duration": "Nov 2019 - May 2020",
-        "link" : "https://pfrepo.me"
+        "link" : "Link - https://pfrepo.me"
       },
       {
         "company": "Infoxpression'2K19",
         "title": "Frontend Developer",
-        "description": "I with the help of my fellow Team Members developed the website of Infoxpression.",
+        "description": "I with the help of my fellow Team Members developed the website of",
+        "description2" :"Infoxpression.",
         "duration": "July 2019 - Oct 2019",
-        "link" : "https://infoxpression-a1433.web.app/"
+        "link" : "Link - https://infoxpression-a1433.web.app/"
       }
     ],
     "Skills": [
       {
-        "Skill": "Expertise Area",
-        "Frameworks":"Software Development, Full Stack Development, MERN Stack Development, React-Native, AWS Server"
+        "Skill": "Expertise Area","d1": "",
+        "Frameworks":"Software Development, Full Stack Development, ", "description": "MERN Stack Development, React-Native, AWS Server"
       },
       {
-        "Skill": "Programming Languages",
-        "Frameworks": "C, C++, Java, JavaScript, HTML, CSS, SASS, Bash, Shell, ES6, Typescript"
+        "Skill": "Programming Languages","d1": "",
+        "Frameworks": "C, C++, Java, JavaScript, HTML, CSS, SASS, Bash, Shell, ES6,", "description": "Typescript"
       },
       {
-        "Skill": "Tools and Technologies",
-        "Frameworks": "React.JS, Redux, React-Native, Vue.JS, Node.JS, Git, Express.js, MongoDB, MySQL, PostgreSQL, Bootstrap, Jquery, Web APi, PassportJs, Flash, SemanticUI, AdobeXD, p5.js"
+        "Skill": "Tools and Technologies","d1": "",
+        "Frameworks": "React.JS, Redux, React-Native, Vue.JS, Node.JS, Git, Express.js,",
+        "description": "MongoDB, MySQL, PostgreSQL, Bootstrap, Jquery, Web APi,",
+        "description2": "PassportJs, Flash, SemanticUI, AdobeXD, p5.js"
       },
       {
-        "Skill": "Technical Electives",
-        "Frameworks": "Data Structures and Algorithms, Operating Systems, DBMS, Software Engineering"
+        "Skill": "Technical Electives","d1": "",
+        "Frameworks": "Data Structures and Algorithms, Operating Systems, DBMS,", "description": "Software Engineering"
       }
     ],
     "Achievments": [
       {
         "name": "HackIIITD",
-        "description": "Top 10 position in HACKIIITD'19 | Tech Hackathon",
-        "certificate" : "https://drive.google.com/file/d/11iHroPKOlp2OiBnnsnkBrnBvxgKjdaul/view?usp=drivesdk"
+        "description": "Top 10 position in HACKIIITD'19 | Tech Hackathon"
       },
       {
         "name": "UHACK 4.0",
-        "description": "Top 8 position in UHACK 4.0 | Tech Hackathon",
-        "certificate" : "https://drive.google.com/open?id=1qofwyKIUUOLtAcWVjWCNoPulbU9OatQ0"
+        "description": "Top 8 position in UHACK 4.0 | Tech Hackathon"
       },
       {
         "name": "Hackcbs 2.0",
         "description": "Top 10 position in HACKIIITD'19 | Tech Hackathon"
       }
     ],
+    "Current Positions": [
+      {
+        "name": "Freelancer.com",
+        "title": "Freelancer",
+        "description": "Open for New Projects"
+      },
+      {
+        "name": "Techspace",
+        "title": "Cogitans Secretary",
+        "description": "Selected as the General Secretary of the department official","d2": "Web Development club (Cogitans) under Techspace"
+      },
+      {
+        "name": "Internshala",
+        "title": "Internshala Student Partner",
+        "description": "Timeline- May 2020 - Jul 2020"
+      },
+      {
+        "name": "Developer Student Club",
+        "title": "Web Domain Lead",
+        "description": "Core Team Member of DSC, USICT for session 2020-21,","d2": "will work as Web Domain Lead of DSC"
+      }
+    ],
     "Projects": [
       {
-        "name": "Yelp-Camp",
-        "link": "https://solitairevue.firebaseapp.com",
-        "description": "A site where you can add your camping experiences"
+        "name": "Infoxpression 2K19",
+        "link": "https://infoxpression-a1433.web.app",
+        "github": "https://github.com/techspaceusict/infox19",
+        "description": "TechStack- VueJs"
+      },
+      {
+        "name": "YelpCamp",
+        "link": "https://yelp-camp-0.herokuapp.com",
+        "github": "https://github.com/NipulSingal/YelpCamp",
+        "description": "TechStack- Node.JS, MongoDB, Ejs"
+      },
+      {
+        "name": "User Dashboard",
+        "link": "https://github.com/NipulSingal/UserDashboard_MERN",
+        "github": "https://github.com/NipulSingal/UserDashboard_MERN",
+        "description": "TechStack- MERN, Redux"
       },
       {
         "name": "Roll Dice Game",
         "link": "https://nipulsingal.github.io/Roll-Dice-Game/",
-        "description": "A simple roll the dice game made entirely in css and javascript"
+        "github": "https://github.com/NipulSingal/Roll-Dice-Game",
+        "description": "TechStack- HTML, CSS, JavaScript"
+      },
+      {
+        "name": "Background-Generator",
+        "link": "https://nipulsingal.github.io/Website-Background-Generator/",
+        "github": "https://github.com/NipulSingal/Website-Background-Generator",
+        "description": "TechStack- HTML, CSS, JavaScript"
+      },
+      {
+        "name": "Papier India / KKR",
+        "link": "https://papierindia.com",
+        "description": "TechStack- HTML, CSS, JavaScript"
+      },
+      {
+        "name": "Personal Portfolio Website",
+        "link": "https://nipulsingal.me",
+        "description": "TechStack- HTML, CSS, JavaScript"
       }
     ],
     "Contact Me": [
       {
-        "name": "Git Hub",
+        "name": "Website",
+        "link": "https://nipulsingal.me"
+      },
+      {
+        "name": "Github",
         "link": "https://github.com/NipulSingal"
       },
       {
@@ -79,11 +140,11 @@
       },
       {
         "name": "LinkedIN",
-        "link": "https://www.linkedin.com/in/nipul-singal-52579416a/"
+        "link": "https://www.linkedin.com/in/nipulsingal/"
       },
       {
         "name": "NPM",
-        "link": "https://www.npmjs.com/settings/nipul-singal/profile"
+        "link": "https://www.npmjs.com/settings/nipul-singal/packages"
       },
       {
         "name": "Email",
