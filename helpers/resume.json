@@ -21,35 +21,29 @@
         "duration": "July 2019 - Oct 2019",
         "link" : "https://infoxpression-a1433.web.app/"
       }
-      // {
-      //   "company": "Coding Ninjas",
-      //   "title": "Learner",
-      //   "description": "Online Course",
-      //   "duration": "June 2018 - Dec 2018"
-      // }
     ],
-    "Tech stack": [
+    "Skills": [
       {
-        "Skill": "Frontend",
-        "Frameworks":"HTML5, CSS3, Javascript, Bootstrap, Semantic UI, React.js"
-      },
-      {
-        "Skill": "Backend",
-        "Frameworks": "Node.js, Express.js, Passport.js, Redux, AWS"
-      },
-      {
-        "Skill": "Databases",
-        "Frameworks": "MongoDB, MySQL, PostgreSQL"
+        "Skill": "Expertise Area",
+        "Frameworks":"Software Development, Full Stack Development, MERN Stack Development, React-Native, AWS Server"
       },
       {
         "Skill": "Programming Languages",
-        "Frameworks": "C, C++"
+        "Frameworks": "C, C++, Java, JavaScript, HTML, CSS, SASS, Bash, Shell, ES6, Typescript"
+      },
+      {
+        "Skill": "Tools and Technologies",
+        "Frameworks": "React.JS, Redux, React-Native, Vue.JS, Node.JS, Git, Express.js, MongoDB, MySQL, PostgreSQL, Bootstrap, Jquery, Web APi, PassportJs, Flash, SemanticUI, AdobeXD, p5.js"
+      },
+      {
+        "Skill": "Technical Electives",
+        "Frameworks": "Data Structures and Algorithms, Operating Systems, DBMS, Software Engineering"
       }
     ],
     "Achievments": [
       {
         "name": "HackIIITD",
-        "description": "Ranked Top 10 amongst top teams of India"
+        "description": "Top 10 position in HACKIIITD'19 | Tech Hackathon"
       }
     ],
     "Projects": [
