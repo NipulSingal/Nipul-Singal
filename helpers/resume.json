@@ -43,6 +43,16 @@
     "Achievments": [
       {
         "name": "HackIIITD",
+        "description": "Top 10 position in HACKIIITD'19 | Tech Hackathon",
+        "certificate" : "https://drive.google.com/file/d/11iHroPKOlp2OiBnnsnkBrnBvxgKjdaul/view?usp=drivesdk"
+      },
+      {
+        "name": "UHACK 4.0",
+        "description": "Top 8 position in UHACK 4.0 | Tech Hackathon",
+        "certificate" : "https://drive.google.com/open?id=1qofwyKIUUOLtAcWVjWCNoPulbU9OatQ0"
+      },
+      {
+        "name": "Hackcbs 2.0",
         "description": "Top 10 position in HACKIIITD'19 | Tech Hackathon"
       }
     ],
