@@ -13,12 +13,12 @@ var divider = new dividerConstructor(70, "white");
 var resumePrompts = {
   type: "list",
   name: "resumeOptions",
-  message: "What do you want to know about me?",
+  message: "What do you want to know about me ?",
   choices: [...Object.keys(resume), "Exit"]
 };
 
 function resumeHandler() {
-  console.log("Hello,My name is Nipul Singal and welcome to my resume");
+  console.log("Hello,My name is Nipul Singal and welcome to my resume!!");
   inquirer.prompt(resumePrompts).then(answer => {
     if (answer.resumeOptions == "Exit") {
       return;
