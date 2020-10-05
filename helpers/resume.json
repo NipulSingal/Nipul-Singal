@@ -7,7 +7,7 @@
         "description2": "The Working Stack is ReactJS, React - Native, Redux, Bootstrap, ", 
         "description3" :"Material-UI, Javascript, Typescript, ES-Lint.",
         "duration": "Jun 2020 - Present",
-        "link" : "Link - https://github.com/NipulSingal/Cymmetri"
+        "link" : "Link - ipu.cymmetri.com"
       },
       {
         "company": "PFRepo",
@@ -100,7 +100,7 @@
         "name": "User Dashboard",
         "link": "https://serene-cove-78437.herokuapp.com/",
         "github": "https://github.com/NipulSingal/UserDashboard",
-        "description": "TechStack- MERN, Redux"
+        "description": "TechStack- MERN, Redux, Axios"
       },
       {
         "name": "Roll Dice Game",
@@ -140,7 +140,7 @@
       },
       {
         "name": "LinkedIN",
-        "link": "https://www.linkedin.com/in/nipulsingal/"
+        "link": "https://www.linkedin.com/in/nipulsingal"
       },
       {
         "name": "NPM",
