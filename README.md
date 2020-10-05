@@ -1,4 +1,4 @@
-<h1 align="center">Resume</h1>
+<h1 align="center">Resume | NPM</h1>
 <h3 align="center"> Run <b>"npx nipul-singal"</b> in your terminal </h3>
 <p align="center">
 
