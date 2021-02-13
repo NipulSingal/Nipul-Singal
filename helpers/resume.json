@@ -1,29 +1,50 @@
 {
-    "Work Experience / Internships": [
+    "Experience": [
       {
-        "company": "Vezures",
-        "title": "Frontend Engineer Intern",
-        "description": "Working on creating a new web dashboard (Cymmetry) for a client.",
+        "company": "Unotech Software Pvt. Ltd",
+        "title": "Software Development Consultant",
+        "duration": "Duration: Oct 2020 - Dec 2020",
+        "description": "Worked on project Cymmetri(https://unotech.cymmetri.com/) for 2nd",
+        "description8": "phase release as a freelancer. Developed new IG Module, ",
+        "description4": "Reconciliation Module, Passwordless Login Flow. Integrated 50+",
+        "description5": "API’s in the front-end which were containing 25+ screens.",
         "description2": "The Working Stack is ReactJS, React - Native, Redux, Bootstrap, ", 
         "description3" :"Material-UI, Javascript, Typescript, ES-Lint.",
-        "duration": "Jun 2020 - Present",
-        "link" : "Link - ipu.cymmetri.com"
+        "link" : "Link: https://unotechsoft.com/cymmetri/"
       },
       {
-        "company": "PFRepo",
+        "company": "Vezures, Intellibuzz",
+        "title": "Frontend Engineer Intern",
+        "duration": "Duration: Jun 2020 - Sep 2020",
+        "description" :"Worked on creating a new web dashboard Cymmetri",
+        "description6" :"(https://unotech.cymmetri.com/) for a client. Worked on Directory",
+        "description2": "Module, Application Module, Policy Module, Login Flow. Created",
+        "description3": "multiple UI functionalities like disable multiple clicks,",
+        "description4": "material-table. Created front-end of 55+ screens. Integrated over ",
+        "description5": "80 API’s in the front-end.",
+        "description7": "Tech Stack- ReactJS, Redux, MaterialUI, Material-Table,",
+        "description8": "Javascript, Typescript.",
+        "link" : "Link: http://www.intellibuzz.net/"
+      },
+      {
+        "company": "PFRepo Technologies Pvt. Ltd",
         "title": "Full Stack Developer Intern",
+        "duration": "Duartion: Nov 2019 - May 2020",
         "description": "Worked on adding new Functionalities to the Website and Improving",
-        "description2" : "the Pre-existing ones. The Working Stack is ReactJS (Front-End),",
-        "description3": "NodeJS (Back-End), PostgreSQl(Database), AWS(Deployement).",
-        "duration": "Nov 2019 - May 2020",
+        "description2": "the Pre-existing ones. Worked on Authentication flow, Admin", 
+        "description3": "dashboard, Backend of Org dashboard. Created an API for", 
+        "description4": "downloading 1000 CV’s from given user’s data in excel form.",
+        "description5": "Tech Stack- ReactJS, Redux, NodeJS, PostgreSQL, AWS, ssh, linux.",
         "link" : "Link - https://pfrepo.me"
       },
       {
         "company": "Infoxpression'2K19",
         "title": "Frontend Developer",
-        "description": "I with the help of my fellow Team Members developed the website of",
-        "description2" :"Infoxpression.",
         "duration": "July 2019 - Oct 2019",
+        "description": "My team developed the website of Infoxpression’19 (the official",
+        "description2": "tech fest). I worked on Schedule Page, Sponsor Section, About ",
+        "description3": "Section and Queries Form.",
+        "description4": "Tech Stack- VueJS, AOS, RellaxJS, Vue Event Card.",
         "link" : "Link - https://infoxpression-a1433.web.app/"
       }
     ],
@@ -52,21 +73,29 @@
     "Skills": [
       {
         "Skill": "Expertise Area","d1": "",
-        "Frameworks":"Software Development, Full Stack Development, ", "description": "MERN Stack Development, React-Native, AWS Server"
+        "Frameworks":"Software Development, Full Stack Development, MERN Stack ", "description": "Development, React-Native Development, Google Cloud (qwiklabs)"
       },
       {
         "Skill": "Programming Languages","d1": "",
-        "Frameworks": "C, C++, Java, JavaScript, HTML, CSS, SASS, Bash, Shell, ES6,", "description": "Typescript"
+        "Frameworks": "C, C++, Java, JavaScript, HTML, CSS, SASS, Bash, Shell, Less"
       },
       {
         "Skill": "Tools and Technologies","d1": "",
-        "Frameworks": "React.JS, Redux, React-Native, Vue.JS, Node.JS, Git, Express.js,",
-        "description": "MongoDB, MySQL, PostgreSQL, Bootstrap, Jquery, Web APi,",
-        "description2": "PassportJs, Flash, SemanticUI, AdobeXD, p5.js"
+        "Frameworks": "React, Redux, ReactNative, VueJS, NodeJS, AJAX, Git, MATLAB",
+        "description": "ExpressJS, MongoDB, MySQL, PostgreSQL, Bootstrap, Jquery, ",
+        "description2": "Web API, PassportJS, Flash, RestAPI, SemanticUI, AdobeXD",
+        "description3": "p5.js, MaterialUI, ES6, ES7, TypeScript, Figma, Thunk, Axios"
       },
       {
         "Skill": "Technical Electives","d1": "",
-        "Frameworks": "Data Structures and Algorithms, Operating Systems, DBMS,", "description": "Software Engineering"
+        "Frameworks": "Data Structures and Algorithms",
+        "description": "Operating Systems",
+        "description1": "Software Engineering",
+        "description2": "Database Management System",
+        "description3": "Object Oriented Software Engineering",
+        "description4": "Computer Graphics",
+        "description5": "Java Programming",
+        "description6": "Linux and Win32 Programming"
       }
     ],
     "Achievments": [
@@ -131,20 +160,24 @@
         "link": "https://nipulsingal.me"
       },
       {
+        "name": "Facebook",
+        "link": "https://www.facebook.com/nipul.singal.7"
+      },
+      {
         "name": "Github",
         "link": "https://github.com/NipulSingal"
       },
       {
         "name": "Medium",
-        "link": "https://medium.com/@nipul00rock"
+        "link": "https://medium.com/@NipulSingal"
       },
       {
         "name": "LinkedIN",
         "link": "https://www.linkedin.com/in/nipulsingal"
       },
       {
-        "name": "NPM",
-        "link": "https://www.npmjs.com/settings/nipul-singal/packages"
+        "name": "Twitter",
+        "link": "https://twitter.com/NipulSingal"
       },
       {
         "name": "Email",

@@ -3,22 +3,22 @@
 var inquirer = require("inquirer");
 var chalk = require("chalk");
 
-const title = chalk.bold.green;
+const title = chalk.bold.red;
 const response = chalk.blue;
 
 var resume = require("./helpers/resume.json");
 var dividerConstructor = require("./helpers/divider.js");
-var divider = new dividerConstructor(70, "white");
+var divider = new dividerConstructor(70, "green");
 
 var resumePrompts = {
   type: "list",
   name: "resumeOptions",
-  message: "What do you want to know about me ?",
+  message: "What do you want to know about me?",
   choices: [...Object.keys(resume), "Exit"]
 };
 
 function resumeHandler() {
-  console.log("Hello,My name is Nipul Singal and welcome to my resume!!");
+  console.log("Hello,My name is Nipul Singal and welcome to my resume.");
   inquirer.prompt(resumePrompts).then(answer => {
     if (answer.resumeOptions == "Exit") {
       return;

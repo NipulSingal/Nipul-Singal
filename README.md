@@ -15,31 +15,24 @@
 <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat">
 </p>
 
-<img src="./readme/Welcome.png" width="100%">
+<img src="./helpers/Welcome.png" width="100%">
 
 <h2 align="center"><a href="https://www.npmjs.com/settings/nipul-singal/packages">Visit Package</a></h2>
 
-## Setup -
+## Description
 
-> Open your terminal and run the command <b>npx nipul-singal</b>
+This is my resume as an NPM package.:-
 
+## `npx nipul-singal`
 
 ## Glimpses
 
 ## Work Experience Screen 👓
 
-<img src="./readme/WorkExperience.png">
-
-## Skills Screen 👓
-
-<img src="./readme/Skills.png">
-
-## Projects Screen 
-
-<img src="./readme/Projects.png">
+<img src="./helpers/Experience.png">
 
 ## Contact Screen 👓
 
-<img src="./readme/Contact.png">
+<img src="./helpers/Contact.png">
 
 > Copyright to NipulSingal.
