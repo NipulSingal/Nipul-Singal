@@ -17,7 +17,7 @@
 
 <img src="./helpers/Welcome.png" width="100%">
 
-<h2 align="center"><a href="https://www.npmjs.com/settings/nipul-singal/packages">Visit Package</a></h2>
+<h2 align="center"><a href="https://www.npmjs.com/package/nipul-singal">Visit Package</a></h2>
 
 ## Description
 
@@ -35,4 +35,3 @@ This is my resume as an NPM package.:-
 
 <img src="./helpers/Contact.png">
 
-> Copyright to NipulSingal.
