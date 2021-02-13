@@ -15,7 +15,7 @@
 <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat">
 </p>
 
-<img src="./helpers/Welcome.png" width="100%">
+<img src="./helpers/welcome.png" width="100%">
 
 <h2 align="center"><a href="https://www.npmjs.com/package/nipul-singal">Visit Package</a></h2>
 
@@ -29,9 +29,9 @@ This is my resume as an NPM package.:-
 
 ## Work Experience Screen 👓
 
-<img src="./helpers/Experience.png">
+<img src="./helpers/experience.png">
 
 ## Contact Screen 👓
 
-<img src="./helpers/Contact.png">
+<img src="./helpers/contact.png">
 
